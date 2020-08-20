@@ -1,4 +1,4 @@
-## Assets
+## 🌵Assets
 
 - **Plants SVGs**
   <a href='https://www.freepik.com/vectors/flower'>Flower vector created by pch.vector - www.freepik.com</a>
